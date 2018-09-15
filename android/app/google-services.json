@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "44832546829",
+    "firebase_url": "https://life-chronicles.firebaseio.com",
+    "project_id": "life-chronicles",
+    "storage_bucket": "life-chronicles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44832546829:android:162f2bb28ad8f83c",
+        "android_client_info": {
+          "package_name": "com.jovanxua.lifechronicles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44832546829-h8pig9pgabpdgnnmnq8t794n3p9e2v8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDprjZPDTcUcKxAa_M4w36NW6UFMu0GQ6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
